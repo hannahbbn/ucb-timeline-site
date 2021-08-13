@@ -9,6 +9,10 @@ h1 {
     font-family: cursive;
     color: purple;
 }
+.img-scale-down {
+    width: 20%;
+    height: auto;
+}
 
 /* body{
     background-color: pink;
